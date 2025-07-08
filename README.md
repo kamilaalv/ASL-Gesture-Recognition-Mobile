@@ -4,7 +4,7 @@
 
 **ASL Gesture Recognition Mobile** extends the baseline ASL recognition system with sophisticated mobile optimizations and real-time video call integration. This repository focuses on the **ML inference pipeline** optimized for resource-constrained mobile devices and WebRTC video streams.
 
-🚀 **[Baseline Project](https://github.com/kamilaalv/ASL-Gesture-Recognition)** | 📱 **Mobile Optimized** | 🎥 **WebRTC Integration**
+🚀 **[Baseline Project](https://github.com/kamilaalv/ASL-Gesture-Recogniton)** | 📱 **Mobile Optimized** | 🎥 **WebRTC Integration**
 
 ## Project Evolution
 
