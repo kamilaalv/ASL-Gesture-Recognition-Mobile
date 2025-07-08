@@ -53,21 +53,7 @@ ASL-Gesture-Recognition-Mobile/
 │   ├── inference.py            # Mobile-optimized ML inference service
 │   └── videosdk.py            # WebRTC video processing service
 │
-├── models/
-│   ├── mob_model.keras         # Mobile-optimized LSTM model
-│   ├── model_v1.keras          # Alternative model versions
-│   └── model_metadata.json    # Model configuration
-│
-├── config/
-│   └── actions.txt             # Gesture vocabulary (11 signs)
-│
-├── mobile_dataset/            # Recorded training data from mobile devices
-│   └── .gitkeep
-│
-└── docs/
-    ├── MOBILE_OPTIMIZATION.md  # Mobile-specific optimizations
-    ├── ARCHITECTURE.md         # System architecture
-    └── DEPLOYMENT.md           # Setup and deployment guide
+└──models/
 ```
 
 ## Core Architecture
